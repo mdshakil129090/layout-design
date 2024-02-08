@@ -1,0 +1,93 @@
+*{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+
+.header{background-color: darkolivegreen;
+color: white;
+height: 100px;}
+
+    .container{background-color: rgb(99, 93, 93);
+        color: white;
+        display: flex;
+        height: 600px;
+
+
+    }
+    .nav-area {background-color: blue;
+    height: 70px;}
+
+
+    .left-container{
+        background-color: rgb(59, 165, 106);
+        color: white;
+        width: 15%;
+
+
+    }
+
+
+    .right-container{
+        background-color: rgb(180, 25, 110);
+        color: white;
+        width: 85%;
+
+
+    }
+
+
+    .footer{  background-color: black;
+        color: white;
+        height: 100px;
+        display: flex;
+justify-content: center;
+align-items: center;
+
+    }
+
+    .left-container-top{height: 40%;
+        background-color: rgb(65, 51, 34);
+        color: white;
+
+
+    }
+
+.left-container-bottom{height: 60%;
+    background-color: rgb(124, 73, 12);
+    color: white;
+
+
+}
+
+
+    .right-container-top{height: 85%;
+        background-color: rgb(231, 137, 13);
+        color: white;
+ 
+    }
+.right-container-bottom{height: 15%;
+    background-color: chartreuse;
+    color: white;
+    display: flex;
+    
+
+}
+
+.r-bottom-left{width:  60%;
+    background-color: violet;
+    color: white;
+
+
+    }
+    .r-bottom-right{width: 40%;
+        background-color: rgb(46, 26, 1);
+        color: white;
+
+
+
+    }
+    .center{display: flex;
+        justify-content: center;
+        align-items: center;}}
